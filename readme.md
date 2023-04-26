@@ -186,7 +186,7 @@ The project aimed classifying the audio data into one of the 10 classes using de
       - Custom Fully Connected Dense neural network model used to classify audio data into one of the 10 classes.
       - Architecture
         <div style="display:flex; justify-content: center; align-items:center;">
-          <img src="docs/images/AudioClassifierArchitecture.png" style="width: 300px; height: 200px;">
+          <img src="docs/images/AudioClassifierArchitecture.png" style="width: 300px; height: 700px;">
         </div>
       - Training
         - Callbakcs and trainin params are setted. some of the callbacks are EarlyStopping, ModelCheckpoint, Tensorboard etc....  
